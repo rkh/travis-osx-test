@@ -1,0 +1,3 @@
+language: objective-c
+rvm: ruby-head
+script: ruby -v
